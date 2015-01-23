@@ -1,0 +1,9 @@
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\bin\Debug\eMouse.exe.config
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\bin\Debug\eMouse.exe
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\bin\Debug\eMouse.pdb
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\obj\Debug\eMouse.Properties.Resources.resources
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\obj\Debug\eMouse.csproj.GenerateResource.Cache
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\obj\Debug\eMouse.exe
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\obj\Debug\eMouse.pdb
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\obj\Debug\eMouse.csprojResolveAssemblyReference.cache
+G:\Dysk Google\Studia\Inżynier\Rok III\Techniki Mikroprocesorowe II\eMouse\eMouse\obj\Debug\eMouse.eMouse.resources
